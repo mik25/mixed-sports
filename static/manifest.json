@@ -1,0 +1,1 @@
+{"id":"org.livesportsmix","version":"1.0.1","name":"Live Sports Mix","description":"Mixed SportsStreams","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["Live Sports Mix"],"icon":"https://mixed-sports.pages.dev/logo.png","catalogs":[{"id":"Live Sports Mixcat","name":"Live Sports Mix","type":"tv"}]}
